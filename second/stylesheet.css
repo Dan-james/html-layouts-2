@@ -1,0 +1,62 @@
+html,body{
+width: 100%;
+height: 100%;
+background-color: lightgrey;
+z-index: 100;
+}
+
+.firstBlock{
+height: 30%;
+width: 80%;
+background-color:white;
+padding:20px;
+margin:5%;
+display:relative;
+}
+
+.words{
+  font-family:courier;
+}
+
+.click{
+  display:inline-block;
+  margin-top:30px;
+  margin-right:50px;
+  padding:20px;
+  padding-right:40px;
+  padding-left:40px;
+}
+.one{
+  background: red;
+  color: white;
+}
+.two{
+  background: blue;
+  color: white;
+}
+.secondBlock{
+height:80%;
+width:80%;
+background-color:white;
+margin:5%;
+padding:20px;
+}
+.picture{
+  max-width:100%;
+ 
+}
+.moreWords{
+  font-family:courier;
+  padding-top:40px;
+}
+.bottom{
+  width: 100%;
+  max-height:50px;
+  background-color:black;
+  color:white;
+  text-align:right;
+  padding: 20px;
+}
+.apple{
+
+}
